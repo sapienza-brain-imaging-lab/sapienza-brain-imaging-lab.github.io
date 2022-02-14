@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2.0'
+gem "github-pages", "~> 223", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '~> 2.2.1'

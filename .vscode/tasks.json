@@ -1,0 +1,28 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start development server",
+            "type": "shell",
+            "command": "./.vscode/docker.sh start",
+            "runOptions": {
+                "runOn": "folderOpen"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Stop development server",
+            "type": "shell",
+            "command": "./.vscode/docker.sh stop",
+            "problemMatcher": []
+        },
+        {
+            "label": "Update GitHub pages",
+            "type": "shell",
+            "command": "./.vscode/docker.sh update",
+            "problemMatcher": []
+        }
+    ]
+}

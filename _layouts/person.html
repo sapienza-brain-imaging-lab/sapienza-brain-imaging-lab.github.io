@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="content">
+	<section class="page">
+		<div class="container {% if page.full_width %}max-container{% endif %}">
+			<h2>{{ page.name }}</h2>
+            <p><img src="{{ page.image_path }}" /></p>
+			{{ content }}
+		</div>
+	</section>
+</div>

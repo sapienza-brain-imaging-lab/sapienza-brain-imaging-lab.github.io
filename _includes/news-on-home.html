@@ -1,0 +1,12 @@
+<section>
+    <div class="container flex">
+        <div class="text editable">
+            <h2><a href="{% include relative-src.html src=include.post.url %}">{{ include.post.title }}</a></h2>
+            <p>{{ include.post.excerpt }}</p>
+            <div class="button"><a href="{% include relative-src.html src=include.post.url %}">Read More</a></div>
+        </div>
+        <div class="image">
+            <img src="{{ include.post.hero }}" alt="Screenshot" class="screenshot editable" />
+        </div>
+    </div>
+</section>

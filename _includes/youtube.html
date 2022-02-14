@@ -1,0 +1,8 @@
+{% assign url = "https://www.youtube.com/embed/" | append: include.videoid | append: "?rel=0&amp;showinfo=0" %}
+
+<div class="video-wrapper">
+    <iframe width="1200" height="720" 
+        src="{{ url }}"
+        frameborder="0" allowfullscreen>
+    </iframe>
+</div>

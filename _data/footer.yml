@@ -1,39 +1,27 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
+  - name: News
+    link: /news/
   - name: About
     link: /about/
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
+  - name: Projects
+    link: /projects/
+  - name: Staff
+    link: /staff/
   - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
+    link: /docs/
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: Instagram
+    link: https://instagram.com/biluniroma1
+    social_icon: Instagram
     new_window: true
-    social_icon: Facebook
   - name: Twitter
     link: https://twitter.com/cloudcannon/
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: Facebook
+    link: https://www.facebook.com/bilrome
+    social_icon: Facebook
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false

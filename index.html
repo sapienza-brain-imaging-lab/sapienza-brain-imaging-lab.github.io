@@ -1,51 +1,40 @@
 ---
-title: The last sales CRM you'll ever need
-description: Track and optimize your sales team in real time
+title: Brain Imaging Laboratory
+description: Brain mapping at the Department of Psychology, Sapienza University
 ---
 <section class="hero">
 	<div class="text-container">
-		<h1 class="editable">The last sales CRM <strong>you'll ever need</strong></h1>
-		<p class="subtext editable">Track and optimize your sales team in real time.</p>
-		<div class="cta button alt"><a href="{{ site.baseurl }}/contact/">Get Started Free</a></div>
+		<h1 class="editable">Welcome to the BIL</h1>
+		<p class="subtext editable">The Brain Imaging Lab at the Department of Psychology, Sapienza University</p>
+		<ul class="buttonset">
+			<li>
+				<div class="button"><a href="{{ site.baseurl }}/intro/">Watch presentation</a></div>
+			</li>
+			<li>
+				<div class="button"><a href="{{ site.baseurl }}/projects/">Look at our projects</a></div>
+			</li>
+			<li>
+				<div class="button"><a href="#homenews">Read latest news</a></div>
+			</li>
+		</ul>
 		<div>
-			<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
+			<img src="{{ site.baseurl }}/images/brainshow.png" alt="Screenshot" class="screenshot editable" />
 		</div>
 	</div>
 </section>
 
-<div class="content">
-	<section>
-		<div class="container flex">
-			<div class="text editable">
-				<h2>How can we <strong>double</strong> our sales revenue?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources. </p>
-			</div>
-			<div class="image">
-				<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
-			</div>
-		</div>
-	</section>
+{% assign firstpost = site.posts[0] %}
+{% assign secondpost = site.posts[1] %}
+{% assign thirdpost = site.posts[2] %}
+<div class="content" id="homenews">
+	{% include news-on-home.html post=firstpost %}
+	{% include news-on-home.html post=secondpost %}
+	{% include news-on-home.html post=thirdpost %}
 
 	<section>
 		<div class="container flex">
-			<div class="text editable">
-				<h2>How can I <strong>keep track</strong> of my sales team?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
-			</div>
-			<div class="image">
-				<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<div class="container flex">
-			<div class="text editable">
-				<h2>How can I <strong>forecast</strong> the next 90 days?</h2>
-				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
-			</div>
-			<div class="image">
-				<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
+			<div class="pagination">
+				<a href="/news/1" class="next btn">Older posts &rarr;</a>
 			</div>
 		</div>
 	</section>
@@ -53,17 +42,31 @@ description: Track and optimize your sales team in real time
 	<section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
-				<div class="square-image"><img src="https://source.unsplash.com/6anudmpILw4/600x400" alt="Jim James" class="editable"></div>
+				<div class="square-image"><img src="/images/staff/gaspare.jpg" alt="Jim James" class="editable"></div>
 				<blockquote>
-					<p class="editable">Hydra has shaped the business we have today. We have a repeatable sales process and a strategy to scale our team. I recommend Hydra to any business looking to improve their sales.</p>
-					<p class="editable author">Jim James - CEO of Global Corp.</p>
+					<p class="editable">We work with complex technologies and expensive equipment, but the
+						main resource we have to study the human mind and its relationship with the brain
+						is the human mind itself, and its ability to develop hypotheses about itself and its brain
+						and to refine the methods to validate them.
+					</p>
+					<p class="editable author">Gaspare Galati - PI of the Brain Imaging Lab</p>
 				</blockquote>
 			</div>
 		</div>
 	</section>
 
 	<section class="bottom-cta">
-		<h2 class="editable"><strong>Improve</strong> your sales process today</h2>
-		<div class="button alt"><a href="#">Get Started Free</a></div>
+		<h2 class="editable"><strong>Learn more</h2>
+		<ul class="buttonset">
+			<li>
+				<div class="button alt"><a href="{{ site.baseurl }}/intro/">Watch presentation</a></div>
+			</li>
+			<li>
+				<div class="button alt"><a href="{{ site.baseurl }}/projects/">Look at our projects</a></div>
+			</li>
+			<li>
+				<div class="button alt"><a href="{{ site.baseurl }}/contact/">Contact us</a></div>
+			</li>
+		</ul>
 	</section>
 </div>

@@ -22,10 +22,10 @@
 	.square-image {
 		width: 200px;
 		height: 200px;
-			img {
-				border-radius: 200px;
-			}
+		img {
+			border-radius: 200px;
 		}
+	}
 
 	.name {
 		font-size: 1.3em;
@@ -34,5 +34,31 @@
 
 	.position {
 		color: #666;
+	}
+}
+
+.staff-testimonial {
+	margin: 0;
+	padding: 0;
+
+	.testimonial-block {
+		max-width: 750px;
+		width: 98%;
+		margin: 0 auto;
+
+		@media #{$tablet} {
+			@include flexbox;
+
+			blockquote {
+				-webkit-flex: 1;
+				flex: 1;
+			}
+		}
+	}
+
+	.image {
+		-webkit-flex: 1;
+		flex: 1;
+		padding: 0 20px;
 	}
 }

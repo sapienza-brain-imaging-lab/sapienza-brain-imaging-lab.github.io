@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "_site": true,
+        ".gitignore": true,
+        ".jekyll-cache": true,
+        ".jekyll-metadata": true,
+        ".vscode": true
+    }
+}
