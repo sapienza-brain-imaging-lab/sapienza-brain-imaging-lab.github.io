@@ -70,6 +70,7 @@ jekyll-archives:
     - categories
 
 plugins:
+  - jekyll-github-metadata
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -81,6 +82,10 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+
+# GitHub Pages
+repository: sapienza-brain-imaging-lab/sapienza-brain-imaging-lab.github.io
+
 
 # -----------
 # CloudCannon
