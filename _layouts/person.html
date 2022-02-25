@@ -3,10 +3,16 @@ layout: default
 ---
 <div class="content">
 	<section class="page">
-		<div class="container {% if page.full_width %}max-container{% endif %}">
-			<h2>{{ page.name }}</h2>
-            <p><img src="{{ page.image_path }}" /></p>
+		<div class="container {% if page.full_width %}max-container{% endif %}" style="overflow:auto;">
+			<div class="person">
+				<div class="square-image">
+					<img src="{{ page.image_path }}" />
+				</div>
+				<div class="name"><a href="{{ page.url }}">{{ page.name }}</a></div>
+				<div class="position">{{ page.position }}</div>
+			</div>
 			{{ content }}
+			<p><a class="prev" href="/staff/">Back</a></p>
 		</div>
 	</section>
 </div>

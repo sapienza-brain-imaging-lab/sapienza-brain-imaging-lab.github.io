@@ -3,7 +3,7 @@
 if [ "$1" == "start" ] ;
 then
     ./.vscode/docker.sh stop
-    (docker run --rm -itd --name bilsite-builder -v "$PWD:/srv/jekyll" -v jekyll-cache:/usr/gem -p 4000:4000 jekyll/jekyll sh -c "bundle exec bundle install && jekyll serve --incremental" && docker logs -f bilsite-builder)
+    (docker run --rm -itd --name bilsite-builder -v "$PWD:/srv/jekyll" -v jekyll-cache:/usr/gem -p 4000:4000 jekyll/jekyll sh -c "(bundle exec bundle install || bundle install) && jekyll serve --incremental" && docker logs -f bilsite-builder)
 
 elif [ "$1" == "stop" ] ;
 then

@@ -1,0 +1,36 @@
+.person {
+    margin: 0px 20px 20px 0;
+	list-style: none;
+	text-align: center;
+
+    box-sizing: border-box;
+    width: 100%;
+
+    @media #{$tablet} {
+        width: 45%;
+        float: left;
+    }
+
+    @media #{$desktop} {
+        width: 29%;
+        float: left;
+    }
+
+    .square-image {
+        width: 200px;
+        height: 200px;
+        img {
+            zoom: 70%;
+            border-radius: 200px;
+        }
+    }
+
+    .name {
+        font-size: 1.3em;
+        margin-top: 20px;
+    }
+
+    .position {
+        color: #666;
+    }
+}
