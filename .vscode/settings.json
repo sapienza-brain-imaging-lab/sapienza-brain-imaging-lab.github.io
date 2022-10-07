@@ -5,5 +5,6 @@
         ".jekyll-cache": true,
         ".jekyll-metadata": true,
         ".vscode": true
-    }
+    },
+    "task.allowAutomaticTasks": "on"
 }

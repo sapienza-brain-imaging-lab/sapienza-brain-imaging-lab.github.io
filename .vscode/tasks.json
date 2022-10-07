@@ -17,12 +17,6 @@
             "type": "shell",
             "command": "./.vscode/docker.sh stop",
             "problemMatcher": []
-        },
-        {
-            "label": "Update GitHub pages",
-            "type": "shell",
-            "command": "./.vscode/docker.sh update",
-            "problemMatcher": []
         }
     ]
 }
