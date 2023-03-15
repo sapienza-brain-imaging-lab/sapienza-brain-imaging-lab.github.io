@@ -1,7 +1,7 @@
 ---
 name: Kathleen Mollo
-position: Graduate student
-order: 14
+position: Undergraduate student
+order: 43
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 layout: person
 ---
