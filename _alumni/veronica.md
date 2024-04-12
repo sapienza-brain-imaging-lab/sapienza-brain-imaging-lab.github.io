@@ -1,7 +1,7 @@
 ---
 name: Veronica Di Palma
-position: Psy.D.
-order: 3
+position: Neuropsychologist, Psy.D.
+order: 4
 image_path: /images/alumni/veronica.jpg
 layout: person
 ---

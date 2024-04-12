@@ -29,6 +29,10 @@ collections:
     _hide_content: true
     sort_by: order
     output: true
+  alumni:
+    _hide_content: true
+    sort_by: order
+    output: true
 
 paginate: 3
 paginate_path: "/news/:num/"
@@ -85,7 +89,6 @@ exclude:
 
 # GitHub Pages
 repository: sapienza-brain-imaging-lab/sapienza-brain-imaging-lab.github.io
-
 
 # -----------
 # CloudCannon

@@ -1,7 +1,7 @@
 ---
 name: Maria Giulia Tullo
-position: Post-doc
-order: 1
+position: Technologist, Ph.D.
+order: 2
 image_path: /images/alumni/mariagiulia.jpg
 layout: person
 ---
