@@ -1,6 +1,6 @@
 ---
 date: 2024-02-06
-Title: Federica Bencivenga successfully defended her PhD thesis.
+title: Federica Bencivenga successfully defended her PhD thesis.
 hero: /images/news/2024-02-06-FB-PHD-thesis.jpeg
 ---
 
