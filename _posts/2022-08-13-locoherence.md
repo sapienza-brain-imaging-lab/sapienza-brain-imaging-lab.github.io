@@ -1,0 +1,12 @@
+---
+date: 2022-08-13
+title: Our paper “The human middle temporal cortex responds to both active leg movements and egomotion-compatible visual motion” is now out on Cerebral Cortex.
+hero: /images/news/2022-08-13-locoherence.png
+---
+
+Findings highlighted functional sensitivity for coherent visual motion and lower-limb movements in MST and FST, suggesting their possible involvement in integrating sensory and motor information to perform locomotion.  
+
+*V. Sulpizio, F. Strappini, P. Fattori, G. Galati, C. Galletti, A. Pecchinenda, S. Pitzalis*
+The human middle-temporal region MT+ is highly specialized in processing visual motion. However, recent studies have shown that this region is modulated by extraretinal signals, suggesting a possible involvement in processing motion information also from non-visual modalities. Here, we used functional MRI data to investigate the influence of retinal and extraretinal signals on MT+ in a large sample of subjects. Moreover, we used resting-state functional MRI to assess how the subdivisions of MT+ (i.e., MST, FST, MT, and V4t) are functionally connected. We first compared responses in MST, FST, MT, and V4t to coherent vs. random visual motion. We found that only MST and FST were positively activated by coherent motion. Furthermore, regional analyses revealed that MST and FST were positively activated by leg, but not arm, movements, while MT and V4t were deactivated by arm, but not leg, movements. Taken together, regional analyses revealed a visuomotor role for the anterior areas MST and FST and a pure visual role for the anterior areas MT and V4t. These findings were mirrored by the pattern of functional connections between these areas and the rest of the brain. Visual and visuomotor regions showed distinct patterns of functional connectivity, with the latter preferentially connected with the somatosensory and motor areas representing leg and foot. Overall, these findings reveal a functional sensitivity for coherent visual motion and lower-limb movements in MST and FST, suggesting their possible involvement in integrating sensory and motor information to perform locomotion.
+
+[Read the paper on the publisher's web site](https://doi.org/10.1007/s00429-022-02549-z)

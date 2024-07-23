@@ -1,0 +1,12 @@
+---
+date: 2024-02-06
+Title: Federica Bencivenga successfully defended her PhD thesis.
+hero: /images/news/2024-02-06-FB-PHD-thesis.png
+---
+
+Our PhD student Federica Bencivenga presented a thesis entitled “Neural underpinnings of visuomotor functions: Insights from brain connectivity”. In which she explored visuomotor connectivity applting multiple methodologies and techniques. Congratulations!!!
+
+Besides being essential for our survival, actions provide meaning to our exchanges with the external world. To successfully interact with the objects surrounding us, we need to extract their relevant visual features, turn them into motor possibilities, and perform movements while integrating visual, tactile, and motor information. In my work, I investigated how this different information is merged in the brain and nested in a process that is continuously updated as the action unfolds. I used neuroimaging techniques in humans to prove that such mechanisms lie in the connections between multiple brain areas. I provided evidence that parietal and frontal areas are bounded by feed-forward/feedback loops during the execution of reaching and grasping movements, showing their different interplay during motor imagery with implications for rehabilitation protocols of motor functions. To test the idea that such circuits are stressed under changing environmental contexts, using virtual reality I created ecological environments to expand the range of action possibilities to be investigated. I tested these paradigms under functional MRI by developing an MRI-compatible motion tracking system to study the neural underpinnings of the online update of motor plans. I have also investigated the neurophysiological correlates of mechanical and tactile hand-object interactions using transcranial magnetic stimulation and providing evidence of stronger cortico-cortical inputs to M1 under conditions of sensorimotor uncertainty during grasp-lift tasks. Overall, by combining multiple techniques and paradigms my work uniquely explored the neural correlates of multiple facets of human motor behavior.
+
+
+[Download the thesis on the publisher's web site](https://iris.uniroma1.it/handle/11573/1701273?mode=simple)
