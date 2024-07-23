@@ -1,7 +1,7 @@
 ---
 date: 2024-02-06
 Title: Federica Bencivenga successfully defended her PhD thesis.
-hero: /images/news/2024-02-06-FB-PHD-thesis.png
+hero: /images/news/2024-02-06-FB-PHD-thesis.jpeg
 ---
 
 Our PhD student Federica Bencivenga presented a thesis entitled “Neural underpinnings of visuomotor functions: Insights from brain connectivity”. In which she explored visuomotor connectivity applting multiple methodologies and techniques. Congratulations!!!

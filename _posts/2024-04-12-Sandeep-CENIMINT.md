@@ -1,7 +1,6 @@
 ---
 date: 2024-04-12
 title: Sandeep Kaur presented a new study proposal at CENIMINT
-hero:
 ---
 
 Our master student Sandeep Kaur presented her thesis project "Interactions between visuo-spatial attention and semantic memory in large-scale cortical
