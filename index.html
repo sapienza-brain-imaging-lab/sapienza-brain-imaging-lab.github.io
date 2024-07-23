@@ -40,24 +40,6 @@ description: Brain mapping at the Department of Psychology, Sapienza University
 	{% include news-on-home.html post=eightpost %}
 	{% include news-on-home.html post=ninethpost %}
 
-	<section>
-		<div class="container flex">
-			{% if paginator.total_pages > 1 %}
-				<div class="pagination">
-					{% if paginator.previous_page %}
-						<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer posts</a>
-					{% endif %}
-
-					<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-					{% if paginator.next_page %}
-						<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts &rarr;</a>
-					{% endif %}
-				</div>
-			{% endif %}
-		</div>
-	</section>
-
 	<section class="bottom-cta">
 		<h2 class="editable"><strong>Learn more</h2>
 		<ul class="buttonset">
