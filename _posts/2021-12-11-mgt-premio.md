@@ -1,7 +1,7 @@
 ---
 date: 2021-12-11
 title: Maria Giulia Tullo awarded for the best PhD thesis
-hero: /images/news/mgt-premio.png
+hero: /images/news/2021-12-11-mgt-premio.png
 ---
 
 Our post-doc lab member Maria Giulia Tullo has been awarded by the Society of Neuropsychology for the best Doctoral Thesis in the neuropsychology field.
