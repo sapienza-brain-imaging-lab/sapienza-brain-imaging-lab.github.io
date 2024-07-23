@@ -1,7 +1,7 @@
 ---
 date: 2024-05-03
 title: Visiting Dr. Ashok Jansari presented “Detecting Pre-Clinical Signs of MCI or Dementia in Healthy Elderly Populations”.
-hero: /images/news/2024-05-03-Jansari-talk2.jpg
+hero: /images/news/2024-05-03-Jansari-talk2.png
 ---
  
 “Detecting Pre-Clinical Signs of MCI or Dementia in Healthy Elderly Populations”

@@ -1,7 +1,7 @@
 ---
 date: 2024-04-19
 title: Visiting Dr. Ashok Jansari presented “The Jansari assessment of Executive Functions (JEF©), A new ecologically-valid tool for assessing EFs using virtual reality.”
-hero: /images/news/2024-04-19-Jansari-talk1.png
+hero: /images/news/2024-04-19-Jansari-talk1.jpg
 ---
  
 “The Jansari assessment of Executive Functions (JEF©): A new ecologically-valid tool for assessing EFs using virtual reality.”

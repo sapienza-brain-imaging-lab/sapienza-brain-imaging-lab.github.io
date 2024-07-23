@@ -34,7 +34,7 @@ collections:
     sort_by: order
     output: true
 
-paginate: 14
+paginate: 10
 paginate_path: "/news/:num/"
 permalink: pretty
 
