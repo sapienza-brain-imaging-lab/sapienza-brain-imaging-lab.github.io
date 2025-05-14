@@ -1,7 +1,7 @@
 ---
 name: Luana Aldea
 position: Graduate student
-order: 8
+order: 18
 image_path: /images/staff/luana.jpg
 layout: person
 ---

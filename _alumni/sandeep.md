@@ -1,7 +1,7 @@
 ---
 name: Sandeep Kaur
 position: Graduate student
-order: 9
+order: 19
 image_path: /images/staff/sandeep.jpg
 layout: person
 ---

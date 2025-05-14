@@ -1,7 +1,7 @@
 ---
 name: Firuze Oğuz
 position: Graduate student
-order: 5
+order: 15
 image_path: /images/alumni/firuze.jpg
 layout: person
 ---
