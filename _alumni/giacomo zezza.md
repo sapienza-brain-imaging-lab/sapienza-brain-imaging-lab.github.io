@@ -1,7 +1,7 @@
 ---
 name: Giacomo Zezza
 position: Graduate Student
-order: 4
+order: 7
 image_path: https://cataas.com/cat?random=1
 layout: person
 ---
