@@ -1,7 +1,7 @@
 ---
 name: Senanur Feyza Tas
 position: Undergraduate Student
-order: 7
+order: 9
 image_path: /images/staff/Senanur Feyza Tas.jpeg
 layout: person
 ---

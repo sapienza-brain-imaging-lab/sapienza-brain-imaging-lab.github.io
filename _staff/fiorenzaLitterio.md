@@ -1,7 +1,7 @@
 ---
 name: Fiorenza Litterio
 position: Undergraduate Student
-order: 9
+order: 11
 image_path: /images/staff/Fiorenza Litterio.jpeg
 layout: person
 ---

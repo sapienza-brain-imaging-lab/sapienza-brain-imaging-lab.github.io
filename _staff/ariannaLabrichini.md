@@ -1,7 +1,7 @@
 ---
 name: Arianna Labrichini
 position: Undergraduate Student
-order: 8
+order: 10
 image_path: /images/staff/Arianna Labrichini.jpg
 layout: person
 ---
