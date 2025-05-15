@@ -1,0 +1,11 @@
+---
+date: 2025-02-27
+title: Michelangelo presented MOTUM at MNESYS meeting 2025.
+hero: /images/news/2025-02-27-MT-MNESYS2025.jpeg
+---
+ 
+Our PhD student Michelangelo Tani presented a poster entitled: “MOTUM: Motion Online Tracking Under MRI” at MNESYS 2025, Genoa, Italy.
+
+Neuroimaging research on human sensorimotor interactions is limited to oversimplified, impoverished experimental setups, with static environmental stimuli and absent or constrained visual feedback of the limbs. Here, we developed and tested MOTUM (Motion Online Tracking Under MRI), a hardware and software setup for fMRI that combines virtual reality (VR) and motion capture to track body movements and reproduce them in real time in a VR environment. We used the system during a reach-to-grasp task, analysed potential artefacts due to movement and examined the parametric modulation of kinematic indeces on task-evoked activations. The MOTUM system provides a high-quality immersive experience while not introducing evident movement-related artefacts and is a promising tool for studying human visuomotor functions. It provides a shared framework for the study of kinematic invariants across different motor tasks, which strenghten generalizability of their neural underpinnings. This paves the way for a wide range of real-life actions to be performed during fMRI scans, with an extensive repertoire of possible virtual (realistic or no) scenarios, potentially determining a breakthrough in the research field of sensorimotor integration and beyond.
+
+[Read the abstract on the publisher's web site](https://iris.uniroma1.it/handle/11573/1735670?mode=complete)
