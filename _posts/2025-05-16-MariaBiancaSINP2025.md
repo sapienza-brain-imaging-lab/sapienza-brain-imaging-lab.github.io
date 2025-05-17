@@ -1,7 +1,7 @@
 ---
 date: 2025-05-16
 title: Maria Bianca Muneghina presented a case report at the SINP 2025 congress. 
-hero: /images/news/BiancaPosterSINP1.jpg
+hero: /images/news/BiancaPosterSINP2025.jpeg
 ---
 
 Our research fellow Maria Bianca Muneghina presented a poster entitled: "Word-centered left pure hemi-alexia: a case report" at the SINP 2025 congress, Urbino, Italy. 
