@@ -1,7 +1,7 @@
 ---
 name: Sara Ferruzzi
 position: Undergraduate Student
-order: 8
+order: 24
 image_path: /images/staff/Sara Ferruzzi.jpg
 layout: person
 ---

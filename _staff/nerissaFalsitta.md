@@ -1,7 +1,7 @@
 ---
 name: Nerissa Falsitta
 position: Undergraduate Student
-order: 7
+order: 23
 image_path: /images/staff/Nerissa Falsitta.jpg
 layout: person
 ---

@@ -1,7 +1,7 @@
 ---
 name: Yousef Esfalani
 position: Undergraduate Student
-order: 6
+order: 22
 image_path: /images/staff/Yousef Esfalani.JPG
 layout: person
 ---

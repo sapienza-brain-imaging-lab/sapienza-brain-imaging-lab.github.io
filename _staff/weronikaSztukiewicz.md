@@ -1,7 +1,7 @@
 ---
 name: Weronika Sztukiewicz
 position: Undergraduate Student
-order: 15
+order: 31
 image_path: /images/staff/Weronika Sztukiewicz.png
 layout: person
 ---

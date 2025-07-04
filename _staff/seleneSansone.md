@@ -1,7 +1,7 @@
 ---
 name: Selene Sansone
 position: Undergraduate Student
-order: 14
+order: 30
 image_path: /images/staff/Selene Sansone.jpg
 layout: person
 ---

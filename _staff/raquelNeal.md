@@ -1,7 +1,7 @@
 ---
 name: Raquel Neal
 position: Undergraduate Student
-order: 12
+order: 28
 image_path: /images/staff/Raquel Neal.jpg
 layout: person
 ---

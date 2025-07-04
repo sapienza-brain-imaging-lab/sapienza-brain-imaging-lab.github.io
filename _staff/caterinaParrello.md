@@ -1,7 +1,7 @@
 ---
 name: Caterina Parrello
 position: Undergraduate Student
-order: 13
+order: 29
 image_path: /images/staff/Caterina Parrello.jpeg
 layout: person
 ---
