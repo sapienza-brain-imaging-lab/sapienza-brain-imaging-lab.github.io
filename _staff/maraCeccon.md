@@ -1,6 +1,6 @@
 ---
 name: Mara Ceccon
-position: Thesis student
+position: Undergraduate Student
 order: 35
 image_path: https://cataas.com/cat?random=11
 layout: person
