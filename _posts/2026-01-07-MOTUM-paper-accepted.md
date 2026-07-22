@@ -1,7 +1,7 @@
 ---
 date: 2026-01-07
 title: MOTUM accepted for publication in Imaging Neuroscience.
-hero: /images/MOTUM.jpg
+hero: /images/news/MOTUM.jpg
 ---
 
 We are pleased to share that the MOTUM paper has been accepted for publication in Imaging Neuroscience on 7 January 2026.
